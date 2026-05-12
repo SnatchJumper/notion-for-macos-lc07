@@ -1,4 +1,4 @@
-#  
+#  smart Extension for Notion for macOS - export to PDF and dark mode offers the most advanced Notion for macOS extension, with export to PDF and dark mode. Ideal for professionals.
 
 
 
